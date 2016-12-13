@@ -1,0 +1,598 @@
+Mean per-function logical LOC: 6.509754901960784
+Mean per-function parameter count: 0.6095098039215687
+Mean per-function cyclomatic complexity: 1.854673202614379
+Mean per-function Halstead effort: 3043.7993600239956
+Mean per-module maintainability index: 116.79499311171483
+First-order density: 0%
+Change cost: 20%
+Core size: 0%
+
+C:\Users\CarLance\todo-mvc-benchmark\javascript-benchmark-master\todomvc\react\js\app.js
+
+  Physical LOC: 177
+  Logical LOC: 111
+  Mean parameter count: 0.7058823529411765
+  Cyclomatic complexity: 10
+  Cyclomatic complexity density: 9.00900900900901%
+  Maintainability index: 115.52955970178574
+  Dependency count: 0
+
+  Function: <anonymous>
+    Line No.: 8
+    Physical LOC: 175
+    Logical LOC: 25
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 4%
+    Halstead difficulty: 7.2
+    Halstead volume: 656.5780353189539
+    Halstead effort: 4727.361854296468
+
+  Function: getInitialState
+    Line No.: 20
+    Physical LOC: 7
+    Logical LOC: 4
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 25%
+    Halstead difficulty: 2
+    Halstead volume: 50.18947501009619
+    Halstead effort: 100.37895002019238
+
+  Function: componentDidMount
+    Line No.: 28
+    Physical LOC: 9
+    Logical LOC: 9
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 11.11111111111111%
+    Halstead difficulty: 6.6000000000000005
+    Halstead volume: 263.53904536672565
+    Halstead effort: 1739.3576994203895
+
+  Function: handleChange
+    Line No.: 38
+    Physical LOC: 3
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2.2857142857142856
+    Halstead volume: 48.43204266092217
+    Halstead effort: 110.70181179639353
+
+  Function: handleNewTodoKeyDown
+    Line No.: 42
+    Physical LOC: 14
+    Logical LOC: 8
+    Parameter count: 1
+    Cyclomatic complexity: 3
+    Cyclomatic complexity density: 37.5%
+    Halstead difficulty: 6.6
+    Halstead volume: 197.15338753100974
+    Halstead effort: 1301.2123577046643
+
+  Function: toggleAll
+    Line No.: 57
+    Physical LOC: 4
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2.857142857142857
+    Halstead volume: 62.26976913547136
+    Halstead effort: 177.91362610134675
+
+  Function: toggle
+    Line No.: 62
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1.2
+    Halstead volume: 28.07354922057604
+    Halstead effort: 33.688259064691245
+
+  Function: destroy
+    Line No.: 66
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1.2
+    Halstead volume: 28.07354922057604
+    Halstead effort: 33.688259064691245
+
+  Function: edit
+    Line No.: 70
+    Physical LOC: 3
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2.3333333333333335
+    Halstead volume: 39.863137138648355
+    Halstead effort: 93.01398665684617
+
+  Function: save
+    Line No.: 74
+    Physical LOC: 4
+    Logical LOC: 3
+    Parameter count: 2
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 33.33333333333333%
+    Halstead difficulty: 2.6
+    Halstead volume: 79.95445336320968
+    Halstead effort: 207.88157874434518
+
+  Function: cancel
+    Line No.: 79
+    Physical LOC: 3
+    Logical LOC: 2
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2
+    Halstead volume: 28.529325012980813
+    Halstead effort: 57.058650025961626
+
+  Function: clearCompleted
+    Line No.: 83
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1
+    Halstead volume: 20.67970000576925
+    Halstead effort: 20.67970000576925
+
+  Function: render
+    Line No.: 87
+    Physical LOC: 81
+    Logical LOC: 29
+    Parameter count: 0
+    Cyclomatic complexity: 4
+    Cyclomatic complexity density: 13.793103448275861%
+    Halstead difficulty: 14.529411764705882
+    Halstead volume: 1194
+    Halstead effort: 17348.11764705882
+
+  Function: <anonymous>
+    Line No.: 92
+    Physical LOC: 10
+    Logical LOC: 7
+    Parameter count: 1
+    Cyclomatic complexity: 3
+    Cyclomatic complexity density: 42.857142857142854%
+    Halstead difficulty: 4.333333333333333
+    Halstead volume: 105.48604608143
+    Halstead effort: 457.10619968619665
+
+  Function: <anonymous>
+    Line No.: 103
+    Physical LOC: 14
+    Logical LOC: 9
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 11.11111111111111%
+    Halstead difficulty: 6.473684210526316
+    Halstead volume: 325.06993328423073
+    Halstead effort: 2104.4000944189675
+
+  Function: <anonymous>
+    Line No.: 118
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 2
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 200%
+    Halstead difficulty: 3.5
+    Halstead volume: 33
+    Halstead effort: 115.5
+
+  Function: render
+    Line No.: 172
+    Physical LOC: 6
+    Logical LOC: 2
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2.1818181818181817
+    Halstead volume: 85.95159310338741
+    Halstead effort: 187.53074858920888
+
+C:\Users\CarLance\todo-mvc-benchmark\javascript-benchmark-master\todomvc\react\js\footer.js
+
+  Physical LOC: 57
+  Logical LOC: 26
+  Mean parameter count: 0
+  Cyclomatic complexity: 3
+  Cyclomatic complexity density: 11.538461538461538%
+  Maintainability index: 99.88135816301235
+  Dependency count: 0
+
+  Function: <anonymous>
+    Line No.: 8
+    Physical LOC: 55
+    Logical LOC: 3
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 33.33333333333333%
+    Halstead difficulty: 3.4285714285714284
+    Halstead volume: 55.506595772116384
+    Halstead effort: 190.30832836154187
+
+  Function: render
+    Line No.: 12
+    Physical LOC: 49
+    Logical LOC: 20
+    Parameter count: 0
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 10%
+    Halstead difficulty: 15.75
+    Halstead volume: 1242.992338407802
+    Halstead effort: 19577.129329922882
+
+C:\Users\CarLance\todo-mvc-benchmark\javascript-benchmark-master\todomvc\react\js\todoItem.js
+
+  Physical LOC: 103
+  Logical LOC: 60
+  Mean parameter count: 0.6666666666666666
+  Cyclomatic complexity: 9
+  Cyclomatic complexity density: 15%
+  Maintainability index: 116.78245926995336
+  Dependency count: 0
+
+  Function: <anonymous>
+    Line No.: 8
+    Physical LOC: 101
+    Logical LOC: 12
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 8.333333333333332%
+    Halstead difficulty: 5.055555555555555
+    Halstead volume: 236.83666567851094
+    Halstead effort: 1197.3409209302497
+
+  Function: handleSubmit
+    Line No.: 15
+    Physical LOC: 9
+    Logical LOC: 7
+    Parameter count: 1
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 28.57142857142857%
+    Halstead difficulty: 6.909090909090909
+    Halstead volume: 157.17331799741265
+    Halstead effort: 1085.9247425275782
+
+  Function: handleEdit
+    Line No.: 25
+    Physical LOC: 4
+    Logical LOC: 3
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 33.33333333333333%
+    Halstead difficulty: 2.75
+    Halstead volume: 75.28421251514429
+    Halstead effort: 207.0315844166468
+
+  Function: handleKeyDown
+    Line No.: 30
+    Physical LOC: 8
+    Logical LOC: 7
+    Parameter count: 1
+    Cyclomatic complexity: 3
+    Cyclomatic complexity density: 42.857142857142854%
+    Halstead difficulty: 5.923076923076923
+    Halstead volume: 177.19905189038187
+    Halstead effort: 1049.5636150430312
+
+  Function: handleChange
+    Line No.: 39
+    Physical LOC: 5
+    Logical LOC: 3
+    Parameter count: 1
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 66.66666666666666%
+    Halstead difficulty: 3.055555555555556
+    Halstead volume: 76.14709844115208
+    Halstead effort: 232.67168968129803
+
+  Function: getInitialState
+    Line No.: 45
+    Physical LOC: 3
+    Logical LOC: 2
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2
+    Halstead volume: 39.863137138648355
+    Halstead effort: 79.72627427729671
+
+  Function: shouldComponentUpdate
+    Line No.: 56
+    Physical LOC: 7
+    Logical LOC: 1
+    Parameter count: 2
+    Cyclomatic complexity: 3
+    Cyclomatic complexity density: 300%
+    Halstead difficulty: 4.25
+    Halstead volume: 114.71880002307701
+    Halstead effort: 487.55490009807727
+
+  Function: componentDidUpdate
+    Line No.: 70
+    Physical LOC: 7
+    Logical LOC: 4
+    Parameter count: 1
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 5.923076923076923
+    Halstead volume: 181.52097998526924
+    Halstead effort: 1075.1627276050563
+
+  Function: render
+    Line No.: 78
+    Physical LOC: 29
+    Logical LOC: 18
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 5.555555555555555%
+    Halstead difficulty: 6.461538461538462
+    Halstead volume: 801.8105520641325
+    Halstead effort: 5180.929721029779
+
+C:\Users\CarLance\todo-mvc-benchmark\javascript-benchmark-master\todomvc\react\js\todoModel.js
+
+  Physical LOC: 83
+  Logical LOC: 44
+  Mean parameter count: 0.875
+  Cyclomatic complexity: 4
+  Cyclomatic complexity density: 9.090909090909092%
+  Maintainability index: 135.7288867495176
+  Dependency count: 0
+
+  Function: <anonymous>
+    Line No.: 7
+    Physical LOC: 81
+    Logical LOC: 11
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 9.090909090909092%
+    Halstead difficulty: 6.714285714285714
+    Halstead volume: 387.80302513413505
+    Halstead effort: 2603.820311614907
+
+  Function: app.TodoModel
+    Line No.: 16
+    Physical LOC: 5
+    Logical LOC: 3
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 33.33333333333333%
+    Halstead difficulty: 3.4285714285714284
+    Halstead volume: 72.64806399138325
+    Halstead effort: 249.07907654188543
+
+  Function: <anonymous>.subscribe
+    Line No.: 22
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1.25
+    Halstead volume: 20.67970000576925
+    Halstead effort: 25.84962500721156
+
+  Function: <anonymous>.inform
+    Line No.: 26
+    Physical LOC: 4
+    Logical LOC: 2
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 1.875
+    Halstead volume: 62.26976913547136
+    Halstead effort: 116.75581712900879
+
+  Function: <anonymous>
+    Line No.: 28
+    Physical LOC: 1
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1
+    Halstead volume: 3
+    Halstead effort: 3
+
+  Function: <anonymous>.addTodo
+    Line No.: 31
+    Physical LOC: 9
+    Logical LOC: 5
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 20%
+    Halstead difficulty: 3.6363636363636367
+    Halstead volume: 116
+    Halstead effort: 421.81818181818187
+
+  Function: <anonymous>.toggleAll
+    Line No.: 41
+    Physical LOC: 11
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 3
+    Halstead volume: 56.472777613085164
+    Halstead effort: 169.4183328392555
+
+  Function: <anonymous>
+    Line No.: 46
+    Physical LOC: 3
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 3.333333333333333
+    Halstead volume: 48.43204266092217
+    Halstead effort: 161.4401422030739
+
+  Function: <anonymous>.toggle
+    Line No.: 53
+    Physical LOC: 9
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 3
+    Halstead volume: 56.472777613085164
+    Halstead effort: 169.4183328392555
+
+  Function: <anonymous>
+    Line No.: 54
+    Physical LOC: 5
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 8
+    Halstead volume: 83.76180828526728
+    Halstead effort: 670.0944662821382
+
+  Function: <anonymous>.destroy
+    Line No.: 63
+    Physical LOC: 7
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 3
+    Halstead volume: 56.472777613085164
+    Halstead effort: 169.4183328392555
+
+  Function: <anonymous>
+    Line No.: 64
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 1.5
+    Halstead volume: 10
+    Halstead effort: 15
+
+  Function: <anonymous>.save
+    Line No.: 71
+    Physical LOC: 7
+    Logical LOC: 2
+    Parameter count: 2
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 2.857142857142857
+    Halstead volume: 62.26976913547136
+    Halstead effort: 177.91362610134675
+
+  Function: <anonymous>
+    Line No.: 72
+    Physical LOC: 3
+    Logical LOC: 2
+    Parameter count: 1
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 5.5
+    Halstead volume: 72.33974351909447
+    Halstead effort: 397.8685893550196
+
+  Function: <anonymous>.clearCompleted
+    Line No.: 79
+    Physical LOC: 7
+    Logical LOC: 2
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 50%
+    Halstead difficulty: 3.2
+    Halstead volume: 50.718800023077
+    Halstead effort: 162.30016007384643
+
+  Function: <anonymous>
+    Line No.: 80
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 1
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 100%
+    Halstead difficulty: 2.25
+    Halstead volume: 13.931568569324174
+    Halstead effort: 31.34602928097939
+
+C:\Users\CarLance\todo-mvc-benchmark\javascript-benchmark-master\todomvc\react\js\utils.js
+
+  Physical LOC: 50
+  Logical LOC: 32
+  Mean parameter count: 0.8
+  Cyclomatic complexity: 14
+  Cyclomatic complexity density: 43.75%
+  Maintainability index: 116.05270167430497
+  Dependency count: 0
+
+  Function: <anonymous>
+    Line No.: 3
+    Physical LOC: 48
+    Logical LOC: 6
+    Parameter count: 0
+    Cyclomatic complexity: 1
+    Cyclomatic complexity density: 16.666666666666664%
+    Halstead difficulty: 3.75
+    Halstead volume: 85.11011351724513
+    Halstead effort: 319.16292568966924
+
+  Function: uuid
+    Line No.: 7
+    Physical LOC: 16
+    Logical LOC: 9
+    Parameter count: 0
+    Cyclomatic complexity: 8
+    Cyclomatic complexity density: 88.88888888888889%
+    Halstead difficulty: 19.733333333333334
+    Halstead volume: 336.88534910630756
+    Halstead effort: 6647.870889031136
+
+  Function: pluralize
+    Line No.: 24
+    Physical LOC: 3
+    Logical LOC: 1
+    Parameter count: 2
+    Cyclomatic complexity: 2
+    Cyclomatic complexity density: 200%
+    Halstead difficulty: 3.5
+    Halstead volume: 33
+    Halstead effort: 115.5
+
+  Function: store
+    Line No.: 28
+    Physical LOC: 8
+    Logical LOC: 4
+    Parameter count: 2
+    Cyclomatic complexity: 3
+    Cyclomatic complexity density: 75%
+    Halstead difficulty: 8.1
+    Halstead volume: 144.4295354570819
+    Halstead effort: 1169.8792372023634
+
+  Function: extend
+    Line No.: 37
+    Physical LOC: 12
+    Logical LOC: 9
+    Parameter count: 0
+    Cyclomatic complexity: 3
+    Cyclomatic complexity density: 33.33333333333333%
+    Halstead difficulty: 12.833333333333334
+    Halstead volume: 181.52097998526924
+    Halstead effort: 2329.519243144289
+
