@@ -1,6 +1,5 @@
 var numberOfItemsToAdd = 100;
 var Suites = [];
-asdsad
 Suites.push({
     name: 'BackboneJS',
     url: 'todomvc/backbone/index.html',
